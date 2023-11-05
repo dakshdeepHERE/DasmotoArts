@@ -13,3 +13,27 @@ h1 {
     text-align: center;
     background-image: url("assets/images/pattern.png");
 }
+
+.item h2 {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+#brush {
+    background-color: mediumspringgreen;
+}
+
+#frames {
+
+    background-color: lightcoral;
+}
+
+#paint {
+    background-color: skyblue;
+}
+
+.price{
+    font-weight: bold;
+    color: blue;
+}
