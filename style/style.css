@@ -1,0 +1,15 @@
+h1,
+h2,
+h3,
+p {
+    font-family: "Helvetica", sans-serif;
+}
+
+h1 {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url("assets/images/pattern.png");
+}
